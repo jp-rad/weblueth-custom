@@ -1,6 +1,6 @@
 {
   "name": "@weblueth/custom",
-  "version": "0.0.0-alpha.0",
+  "version": "0.0.0-alpha.1",
   "description": "@weblueth, custom template.",
   "main": "./dist/cjs/index.js",
   "module": "./dist/esm/index.js",
